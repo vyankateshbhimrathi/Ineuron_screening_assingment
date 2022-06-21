@@ -1,0 +1,5 @@
+2022-06-09 20:45:42,575 DEBUG initialization of timer function started
+2022-06-09 20:45:42,577 DEBUG time initialization before calling the function 1654787742.5777009 sec
+2022-06-09 20:45:42,577 DEBUG calling the outside <function add at 0x000001B88B16FEE0> function
+2022-06-09 20:45:43,590 DEBUG addition of two numbers is 10
+2022-06-09 20:45:43,590 DEBUG It took 1.0131886005401611 secs to run

@@ -1,0 +1,5 @@
+2022-06-19 16:53:02,609 INFO checking file exists in given path or not
+2022-06-19 16:53:05,279 INFO file opened successfully
+2022-06-19 16:53:08,157 INFO again opening file in write mode to replace the content
+2022-06-19 16:53:10,518 INFO replacement of given text is completed
+2022-06-19 16:53:11,780 INFO file closed successfully
